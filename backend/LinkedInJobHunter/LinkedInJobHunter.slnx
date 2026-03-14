@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LinkedInJobHunter.API/LinkedInJobHunter.API.csproj" />
+  <Project Path="LinkedInJobHunter.Application/LinkedInJobHunter.Application.csproj" />
+  <Project Path="LinkedInJobHunter.Domain/LinkedInJobHunter.Domain.csproj" />
+  <Project Path="LinkedInJobHunter.Infrastructure/LinkedInJobHunter.Infrastructure.csproj" />
+  <Project Path="LinkedInJobHunter.Tests/LinkedInJobHunter.Tests.csproj" />
+</Solution>

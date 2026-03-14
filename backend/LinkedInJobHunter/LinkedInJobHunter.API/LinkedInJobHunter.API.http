@@ -1,0 +1,6 @@
+@LinkedInJobHunter.API_HostAddress = http://localhost:5185
+
+GET {{LinkedInJobHunter.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
